@@ -24,6 +24,10 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -37,6 +41,7 @@
       <option name="presentableId" value="Default" />
       <updated>1684648791570</updated>
       <workItem from="1684648793496" duration="53000" />
+      <workItem from="1684648889712" duration="361000" />
     </task>
     <servers />
   </component>
