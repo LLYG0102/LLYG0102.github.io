@@ -6,9 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="0fa1f64f-2377-405a-87cc-26f55d45c0c0" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_coverpage.md" beforeDir="false" afterPath="$PROJECT_DIR$/_coverpage.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_navbar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_navbar.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/everday.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +47,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\li\Documents\GitHub\LLYG0102.github.io" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\li\Documents\GitHub\LLYG0102.github.io\everday" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -58,7 +62,7 @@
       <workItem from="1684648793496" duration="53000" />
       <workItem from="1684648889712" duration="426000" />
       <workItem from="1684649750201" duration="373000" />
-      <workItem from="1684650200355" duration="11132000" />
+      <workItem from="1684650200355" duration="13346000" />
     </task>
     <servers />
   </component>

@@ -1,7 +1,7 @@
 - [**主页**](/)
 - 数据集链接
 - 工作进展
-  - [**每日记录**](everday.md)
+  - [**每日记录**](everday/)
   - [**已有成果**](accomplishment.md)
 - 在线技术文档
   - [**Git中文教程**](https://git-scm.com/book/zh/v2)

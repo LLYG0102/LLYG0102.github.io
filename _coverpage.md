@@ -8,5 +8,6 @@
 
 
 [**开启阅读**](/README.md)
+[**每日进展**](everday/)
 
 ![](images/background.jpg)
