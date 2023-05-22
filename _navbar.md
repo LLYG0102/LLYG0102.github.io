@@ -1,12 +1,13 @@
 - [**主页**](/)
 - 数据集链接
+  
 - 工作计划
   - [**每日记录**](每日记录/)
   - [**项目进展**](项目进展记录/)
   - [**工作计划**](每周计划表/)
 - 在线技术文档 
   - [**Git中文教程**](https://git-scm.com/book/zh/v2)
-  - [**官方文档**](https://docsify.js.org/#/zh-cn/)
+  - [**docsify官方文档**](https://docsify.js.org/#/zh-cn/)
   - [**SVN中文手册**](http://svnbook.red-bean.com/nightly/zh/index.html)
   - [**jQuery API中文文档**](https://jquery.cuishifeng.cn/)
   - [**Nginx中文文档**](https://www.nginx.cn/doc/index.html)
