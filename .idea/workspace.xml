@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0fa1f64f-2377-405a-87cc-26f55d45c0c0" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_navbar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_navbar.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/机器学习知识块/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习知识块/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/每周计划表/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/每周计划表/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/每日记录/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/每日记录/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/项目进展记录/MolecularD.md" beforeDir="false" afterPath="$PROJECT_DIR$/项目进展记录/MolecularD.md" afterDir="false" />
-    </list>
+    <list default="true" id="0fa1f64f-2377-405a-87cc-26f55d45c0c0" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +59,7 @@
       <workItem from="1684648889712" duration="426000" />
       <workItem from="1684649750201" duration="373000" />
       <workItem from="1684650200355" duration="13564000" />
-      <workItem from="1684676100288" duration="8861000" />
+      <workItem from="1684676100288" duration="9647000" />
     </task>
     <servers />
   </component>
