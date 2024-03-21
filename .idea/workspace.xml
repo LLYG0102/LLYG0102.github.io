@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0fa1f64f-2377-405a-87cc-26f55d45c0c0" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/文献精读/大模型LM/CLIP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/文献精读/大模型LM/MM1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/文献精读/大模型LM/Transformer.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/文献精读/大模型LM/Vision Transformer.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_coverpage.md" beforeDir="false" afterPath="$PROJECT_DIR$/_coverpage.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/每日记录/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/每日记录/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +80,7 @@
       <workItem from="1687263853271" duration="232000" />
       <workItem from="1687264094057" duration="143000" />
       <workItem from="1687264244665" duration="71000" />
-      <workItem from="1710988881461" duration="3811000" />
+      <workItem from="1710988881461" duration="7336000" />
     </task>
     <servers />
   </component>
