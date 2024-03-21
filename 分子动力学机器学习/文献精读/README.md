@@ -1,13 +1,13 @@
 # 分子动力学结合机器学习的文献精读
 
 ## 文献精读链接
-> 1、利用机器学习力场进行的分子动力学模拟：[**Chmiela S, Sauceda H E, Müller K R, et al. Towards exact molecular dynamics simulations with machine-learned force fields[J]. Nature communications, 2018, 9(1): 3887.**](/文献精读/分子动力学机器学习/机器学习力场进行精确的分子动力学模拟.md)
+#### [**1、利用机器学习力场进行的分子动力学模拟：Chmiela S, Sauceda H E, Müller K R, et al. Towards exact molecular dynamics simulations with machine-learned force fields[J]. Nature communications, 2018, 9(1): 3887.**](/分子动力学机器学习/文献精读/机器学习力场.md)
 
-> 2、SchNet连续滤波器卷积神经网络用于量子作用：[**Schütt K, Kindermans P J, Sauceda Felix H E, et al. Schnet: A continuous-filter convolutional neural network for modeling quantum interactions[J]. Advances in neural information processing systems, 2017, 30.（NeurlPS）**](/文献精读/分子动力学机器学习/SchNet连续滤波器卷积神经网络.md)
+#### [**2、SchNet连续滤波器卷积神经网络用于量子作用：Schütt K, Kindermans P J, Sauceda Felix H E, et al. Schnet: A continuous-filter convolutional neural network for modeling quantum interactions[J]. Advances in neural information processing systems, 2017, 30.（NeurlPS）**](/分子动力学机器学习/文献精读/SchNet.md)
 
-> 3、DeepMD方法预测AIMD精度分子动力学：[**Zhang L, Han J, Wang H, et al. Deep potential molecular dynamics: a scalable model with the accuracy of quantum mechanics[J]. Physical review letters, 2018, 120(14): 143001.**](/文献精读/分子动力学机器学习/DeepMD.md)
+#### [**3、DeepMD方法预测AIMD精度分子动力学：Zhang L, Han J, Wang H, et al. Deep potential molecular dynamics: a scalable model with the accuracy of quantum mechanics[J]. Physical review letters, 2018, 120(14): 143001.**](/分子动力学机器学习/文献精读/DeepMD.md)
 
-> 4、NewtonNet[**Haghighatlari M, Li J, Guan X, et al. Newtonnet: A newtonian message passing network for deep learning of interatomic potentials and forces[J]. Digital Discovery, 2022, 1(3): 333-343.**](/文献精读/分子动力学机器学习/NewtonNet.md)
+#### [**4、NewtonNet:Haghighatlari M, Li J, Guan X, et al. Newtonnet: A newtonian message passing network for deep learning of interatomic potentials and forces[J]. Digital Discovery, 2022, 1(3): 333-343.**](/分子动力学机器学习/文献精读/NewtonNet.md)
 # 文献汇总表格
 这是一份先前制作的总结表格，文献精读会根据这个表格一步一步进行，同时在读的过程中不断完成填充表格内容。
 
