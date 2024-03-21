@@ -5,25 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0fa1f64f-2377-405a-87cc-26f55d45c0c0" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/数学知识块/矩阵原理.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数学知识块/统计学习方法.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_sidebar.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/分子动力学知识块/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/分子动力学机器学习/分子动力学知识块/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数学知识块/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/数学知识块/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/文献精读/分子动力学机器学习/DeepMD.md" beforeDir="false" afterPath="$PROJECT_DIR$/分子动力学机器学习/文献精读/DeepMD.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/文献精读/分子动力学机器学习/GDML.md" beforeDir="false" afterPath="$PROJECT_DIR$/分子动力学机器学习/文献精读/GDML.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/文献精读/分子动力学机器学习/NewtonNet.md" beforeDir="false" afterPath="$PROJECT_DIR$/分子动力学机器学习/文献精读/NewtonNet.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/文献精读/分子动力学机器学习/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/分子动力学机器学习/文献精读/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/文献精读/分子动力学机器学习/SchNet连续滤波器卷积神经网络.md" beforeDir="false" afterPath="$PROJECT_DIR$/分子动力学机器学习/文献精读/SchNet.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/文献精读/分子动力学机器学习/机器学习力场进行精确的分子动力学模拟.md" beforeDir="false" afterPath="$PROJECT_DIR$/分子动力学机器学习/文献精读/机器学习力场.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/文献精读/大模型LM/CLIP.md" beforeDir="false" afterPath="$PROJECT_DIR$/大模型LM/文献精读/CLIP.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/文献精读/大模型LM/MM1.md" beforeDir="false" afterPath="$PROJECT_DIR$/大模型LM/文献精读/MM1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/文献精读/大模型LM/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/大模型LM/文献精读/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/文献精读/大模型LM/Transformer.md" beforeDir="false" afterPath="$PROJECT_DIR$/大模型LM/文献精读/Transformer.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/文献精读/大模型LM/Vision Transformer.md" beforeDir="false" afterPath="$PROJECT_DIR$/大模型LM/文献精读/Vision Transformer.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/机器学习知识块/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习知识块/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/每日记录/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/每日记录/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +77,7 @@
       <workItem from="1687263853271" duration="232000" />
       <workItem from="1687264094057" duration="143000" />
       <workItem from="1687264244665" duration="71000" />
-      <workItem from="1710988881461" duration="11841000" />
+      <workItem from="1710988881461" duration="12174000" />
     </task>
     <servers />
   </component>
