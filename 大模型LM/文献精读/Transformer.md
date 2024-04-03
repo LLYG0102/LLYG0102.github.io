@@ -17,11 +17,21 @@
 (同时具有更高的并行化能力，所需的训练时间显著减少。我们的模型在WMT 2014英译德翻译任务中获得了28.4%的BLEU成绩，比现有的最好成绩&#40;包括语料库&#41;提高了2%以上。)
 在WMT 2014英法翻译任务上，我们的模型在8个GPU上进行了3.5天的培训后，建立了新的单一模型最先进的BLEU得分41.0，这只是文献中最好的模型的培训成本的一小部分。
 
-## 多头注意力机制 multi-head attention
+## 2.模型框架及多头注意力机制 multi-head attention
 
 Transformer作为之后语言大模型LLM，多模态大模型MLLM，图像大模型VLM的基础，重点是先要理解其内部结构。
+结构图：
+![transformer.jpg](..%2F..%2F%E7%94%A8%E5%88%B0%E7%9A%84%E5%9B%BE%E7%89%87%2Ftransformer1.jpg)
+![transformer.jpg](..%2F..%2F%E7%94%A8%E5%88%B0%E7%9A%84%E5%9B%BE%E7%89%87%2Ftransformer2.jpg)
+
+## 3.手写笔记
+### QKV, 自&多头注意力
+![Transformer手稿.jpg](..%2F..%2F%E7%94%A8%E5%88%B0%E7%9A%84%E5%9B%BE%E7%89%87%2FTransformer%E6%89%8B%E7%A8%BF.jpg)
 
 
-
-
+<style>
+    img[alt="Transformer手稿"]{
+        width:1000px;
+    }
+</style>
 

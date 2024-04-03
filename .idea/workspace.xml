@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0fa1f64f-2377-405a-87cc-26f55d45c0c0" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/大模型LM/diffusion.md" beforeDir="false" afterPath="$PROJECT_DIR$/大模型LM/文献精读/diffusion.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/大模型LM/文献精读/Transformer.md" beforeDir="false" afterPath="$PROJECT_DIR$/大模型LM/文献精读/Transformer.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,11 +50,11 @@
       <recent name="C:\Users\li\Documents\GitHub\LLYG0102.github.io\everday" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/大模型LM/文献精读" />
       <recent name="$PROJECT_DIR$/分子动力学机器学习/文献精读" />
       <recent name="$PROJECT_DIR$/分子动力学机器学习" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/文献精读/分子动力学机器学习/文献精读" />
-      <recent name="$PROJECT_DIR$/文献精读/大模型LM/文献精读" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
@@ -85,6 +86,7 @@
       <workItem from="1711422941278" duration="965000" />
       <workItem from="1711505650227" duration="1800000" />
       <workItem from="1712127707131" duration="1325000" />
+      <workItem from="1712156697768" duration="831000" />
     </task>
     <servers />
   </component>
